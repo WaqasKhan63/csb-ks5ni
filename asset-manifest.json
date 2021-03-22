@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://WaqasKhan63.github.io/csb-ks5ni/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://WaqasKhan63.github.io/csb-ks5ni/static/js/main.cd84d416.chunk.js",
+    "main.js.map": "https://WaqasKhan63.github.io/csb-ks5ni/static/js/main.cd84d416.chunk.js.map",
+    "runtime-main.js": "https://WaqasKhan63.github.io/csb-ks5ni/static/js/runtime-main.10f1ca3b.js",
+    "runtime-main.js.map": "https://WaqasKhan63.github.io/csb-ks5ni/static/js/runtime-main.10f1ca3b.js.map",
+    "static/js/2.fba799f8.chunk.js": "https://WaqasKhan63.github.io/csb-ks5ni/static/js/2.fba799f8.chunk.js",
+    "static/js/2.fba799f8.chunk.js.map": "https://WaqasKhan63.github.io/csb-ks5ni/static/js/2.fba799f8.chunk.js.map",
+    "index.html": "https://WaqasKhan63.github.io/csb-ks5ni/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://WaqasKhan63.github.io/csb-ks5ni/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.fba799f8.chunk.js.LICENSE.txt": "https://WaqasKhan63.github.io/csb-ks5ni/static/js/2.fba799f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10f1ca3b.js",
+    "static/js/2.fba799f8.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.cd84d416.chunk.js"
+  ]
+}
